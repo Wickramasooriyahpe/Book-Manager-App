@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BookManager\\backend\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAD2416-4D7D-4546-9D4B-D2EE68FFF065}|backend\\backend.csproj|e:\\bookmanager\\backend\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFAD2416-4D7D-4546-9D4B-D2EE68FFF065}|backend\\backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAD2416-4D7D-4546-9D4B-D2EE68FFF065}|backend\\backend.csproj|e:\\bookmanager\\backend\\backend\\backend\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAD2416-4D7D-4546-9D4B-D2EE68FFF065}|backend\\backend.csproj|solutionrelative:backend\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAD2416-4D7D-4546-9D4B-D2EE68FFF065}|backend\\backend.csproj|e:\\bookmanager\\backend\\backend\\backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAD2416-4D7D-4546-9D4B-D2EE68FFF065}|backend\\backend.csproj|solutionrelative:backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAD2416-4D7D-4546-9D4B-D2EE68FFF065}|backend\\backend.csproj|e:\\bookmanager\\backend\\backend\\backend\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAD2416-4D7D-4546-9D4B-D2EE68FFF065}|backend\\backend.csproj|solutionrelative:backend\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAD2416-4D7D-4546-9D4B-D2EE68FFF065}|backend\\backend.csproj|e:\\bookmanager\\backend\\backend\\backend\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAD2416-4D7D-4546-9D4B-D2EE68FFF065}|backend\\backend.csproj|solutionrelative:backend\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\BookManager\\backend\\backend\\backend\\Startup.cs",
+              "RelativeDocumentMoniker": "backend\\Startup.cs",
+              "ToolTip": "E:\\BookManager\\backend\\backend\\backend\\Startup.cs",
+              "RelativeToolTip": "backend\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:58:12.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\BookManager\\backend\\backend\\backend\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\BookManager\\backend\\backend\\backend\\Controllers\\BookController.cs",
+              "RelativeToolTip": "backend\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:56:52.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "E:\\BookManager\\backend\\backend\\backend\\DataStore.cs",
+              "RelativeDocumentMoniker": "backend\\DataStore.cs",
+              "ToolTip": "E:\\BookManager\\backend\\backend\\backend\\DataStore.cs",
+              "RelativeToolTip": "backend\\DataStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:54:43.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\BookManager\\backend\\backend\\backend\\Book.cs",
+              "RelativeDocumentMoniker": "backend\\Book.cs",
+              "ToolTip": "E:\\BookManager\\backend\\backend\\backend\\Book.cs",
+              "RelativeToolTip": "backend\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:51:04.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\BookManager\\backend\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\BookManager\\backend\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T09:46:18.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
